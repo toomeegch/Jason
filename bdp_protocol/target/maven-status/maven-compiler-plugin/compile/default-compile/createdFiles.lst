@@ -1,0 +1,16 @@
+com\yunplus\bdp\protocol\bean\QueryProtocol.class
+com\yunplus\bdp\protocol\result\NextNode.class
+com\yunplus\bdp\protocol\result\Tree.class
+com\yunplus\bdp\protocol\po\ResponsePo.class
+com\yunplus\bdp\protocol\bean\UploadProtocol.class
+com\yunplus\bdp\protocol\bean\TaskProtocol.class
+com\yunplus\bdp\protocol\result\TreeNode.class
+com\yunplus\bdp\protocol\bean\CleanDataProtocol.class
+com\yunplus\bdp\protocol\result\FuntionNode.class
+com\yunplus\bdp\protocol\po\RequestPo.class
+com\yunplus\bdp\protocol\result\ResultDataService.class
+com\yunplus\bdp\protocol\po\ResultNoticePo.class
+com\yunplus\bdp\protocol\po\ComputedResultPo.class
+com\yunplus\bdp\protocol\bean\ProtocolType.class
+com\yunplus\bdp\protocol\result\ArrayNode.class
+com\yunplus\bdp\protocol\bean\BaseProtocol.class
